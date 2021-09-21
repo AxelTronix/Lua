@@ -1,5 +1,6 @@
 # Lua - Beginners Guide
 
+Lua Docs https://www.lua.org/docs.html
 ## Printing
 ```lua
 print("Hello World")
